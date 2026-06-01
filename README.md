@@ -1,1 +1,1 @@
-I have built a mini project - "My Portfolio" on HTML
+I have a built a mini project on HTML- "My portfolio"
