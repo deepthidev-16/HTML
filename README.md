@@ -1,1 +1,1 @@
-I have a built a mini project- "Portfolio" on HTML.
+I have built a mini project- "Portfolio" on HTML.
